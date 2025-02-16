@@ -1,1 +1,3 @@
-include cwe_tree/data/*.csv
+include README.md
+include LICENSE
+recursive-include data *.csv
